@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Get A Fucking Name</title>
+</head>
+<body>
+<!-- begin inner template-->
+
+<div class="container">
+    #parse( $template )
+</div>
+
+<!-- end inner template-->
+</body>
+</html>
